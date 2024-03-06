@@ -12,9 +12,9 @@
 
 ## 安装
 
-1. `composer require lyxxxh/filestore`
+1. `composer require mryup/filestore`
 ​
-2. `php bin/hyperf.php vendor:publish lyxxxh/filestore`  // 发布配置
+2. `php bin/hyperf.php vendor:publish mryup/filestore`  // 发布配置
 ​
 3. 配置`config/autoload/filestore.php`       //配置oss
 ```
